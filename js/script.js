@@ -25,6 +25,6 @@ window.addEventListener('DOMContentLoaded', () => {
         wrapper: '.offer__slider-wrapper',
         field: '.offer__slider-inner'
     });
-    timer('.timer', '2020-06-31');
+    timer('.timer', '2020-12-31');
     calc();
 });
